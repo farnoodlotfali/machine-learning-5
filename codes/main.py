@@ -1,3 +1,29 @@
+
+
+# Please see main.ipynb
+# Please see main.ipynb
+# Please see main.ipynb
+# Please see main.ipynb
+
+
+
+
+
+
+
+
+# Please see main.ipynb
+# Please see main.ipynb
+# Please see main.ipynb
+# Please see main.ipynb
+# Please see main.ipynb
+# Please see main.ipynb
+# Please see main.ipynb
+
+
+
+
+""" 
 import numpy as np
 from scipy.optimize import fmin_cg, minimize
 from displayData import displayData
@@ -250,3 +276,4 @@ pred = predict(Theta1, Theta2, X)
 print ('\nTraining Set Accuracy:', accuracy_score(y, pred))
 
 
+"""
